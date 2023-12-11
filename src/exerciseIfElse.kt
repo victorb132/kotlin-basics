@@ -1,5 +1,3 @@
-import kotlin.reflect.typeOf
-
 fun main() {
     isSquartle(3, 3)
     isTriangleEquilater(2, 3,2)
